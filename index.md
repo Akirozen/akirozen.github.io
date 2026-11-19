@@ -2,6 +2,8 @@
 title: Baraj Labs
 ---
 
+# Baraj Labs
+
 Baraj Labs makes small, playful apps for Android.
 
 ## SingBack
