@@ -2,6 +2,8 @@
 title: SingBack Privacy Policy
 ---
 
+# SingBack Privacy Policy
+
 **Effective date:** 19 November 2026
 
 SingBack ("the app") is made by Baraj Labs ("we", "us"). This policy explains what happens to your information when you use the app on Android.
@@ -56,4 +58,4 @@ If the app changes in a way that affects your privacy (for example, if we add ad
 
 ## Contact
 
-If you have questions about this policy, contact Baraj Labs at **[CONTACT EMAIL]**.
+If you have questions about this policy, contact Baraj Labs at **barajlabs.dev@gmail.com**.
