@@ -2,9 +2,7 @@
 title: SingBack Privacy Policy
 ---
 
-# SingBack Privacy Policy
-
-**Effective date:** 18 November 2026
+**Effective date:** 19 November 2026
 
 SingBack ("the app") is made by Baraj Labs ("we", "us"). This policy explains what happens to your information when you use the app on Android.
 
@@ -50,7 +48,7 @@ SingBack does not:
 
 ## Children
 
-SingBack is intended for users aged 13 and over. We do not knowingly collect personal information from anyone, including children.
+SingBack is intended for users aged 16 and over. We do not knowingly collect personal information from anyone, including children.
 
 ## Changes to this policy
 
@@ -58,4 +56,4 @@ If the app changes in a way that affects your privacy (for example, if we add ad
 
 ## Contact
 
-If you have questions about this policy, contact Baraj Labs at **barajlabs.dev@gmail.com**.
+If you have questions about this policy, contact Baraj Labs at **[CONTACT EMAIL]**.
